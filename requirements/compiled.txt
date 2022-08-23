@@ -17,4 +17,4 @@ pycrypto==2.6.1
 pyOpenSSL==0.15.1
 
 # used by langid.
-numpy==1.10.4
+numpy==1.22.0
