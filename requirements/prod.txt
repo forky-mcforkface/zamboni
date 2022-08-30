@@ -43,7 +43,7 @@ django-cronjobs==0.2.3
 django_csp==2.0.3
 django-environ==0.4.0
 django-extensions==1.6.1
-django-filter==0.12.0
+django-filter==2.4.0
 django-multidb-router==0.6
 django-nose==1.4.3
 django-post-request-task==0.0.3
