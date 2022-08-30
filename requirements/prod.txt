@@ -6,7 +6,7 @@ amqp==1.4.9
 anyjson==0.3.3
 # argparse is required by app-validator, translate-toolkit, curling, receipts
 argparse==1.4.0
-babel==2.2.0
+babel==2.9.1
 basket-client==0.3.11
 # billiard is required by celery
 billiard==3.3.0.22
