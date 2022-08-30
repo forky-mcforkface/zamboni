@@ -122,7 +122,7 @@ slumber==0.7.1
 SQLAlchemy==0.7.5
 sqlparse==0.1.18
 statsd==3.2.1
-suds==0.4
+suds==1.0.0
 responses==0.5.0
 # urllib3 is required by elasticsearch
 urllib3==1.13.1
